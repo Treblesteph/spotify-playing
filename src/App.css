@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.wrapper {
+  display: flex;
+  width: 250px;
+  flex-direction: column;
+  text-align: center;
+  font-family: 'Raleway';
+  border-radius: 10px;
+  border: solid 0.5px black;
+  padding: 20px;
+  margin: 40px;
+  background: steelblue;
+  color: wheat;
+}
+
+.button {
+  background: wheat;
+  color: black;
+  width: 75px;
+  padding: 6px;
+  align-self: center;
+  border-radius: 4px;
+  margin-top: 20px;
+  cursor: pointer;
+}
