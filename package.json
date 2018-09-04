@@ -16,11 +16,16 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "eslint": "^5.5.0",
     "eslint-config-standard": "^12.0.0",
     "eslint-config-standard-jsx": "^6.0.2",
+    "eslint-import-resolver-node": "^0.3.2",
+    "eslint-module-utils": "^2.2.0",
     "eslint-plugin-html": "^4.0.5",
+    "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-node": "^7.0.1",
     "eslint-plugin-promise": "^4.0.0",
+    "eslint-plugin-react": "^7.11.1",
     "eslint-plugin-standard": "^4.0.0",
     "eslint-scope": "^4.0.0",
     "eslint-visitor-keys": "^1.0.0",
